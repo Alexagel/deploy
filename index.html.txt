@@ -1,0 +1,5 @@
+<html>
+<body>
+    <h1>This application was deployed using AWS CodeDeploy</h1>
+</body>
+</html>
